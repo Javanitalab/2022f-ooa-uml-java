@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="geometry:war">
+    <output-path>$PROJECT_DIR$/geometry/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>geometry</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="geometry-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="geometry:war exploded" />
+    </root>
+  </artifact>
+</component>

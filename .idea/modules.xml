@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2022f-ooa-uml-java.iml" filepath="$PROJECT_DIR$/2022f-ooa-uml-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geometry/geometry.iml" filepath="$PROJECT_DIR$/geometry/geometry.iml" />
     </modules>
   </component>
 </project>
